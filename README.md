@@ -1,2 +1,3 @@
-# initialCondition
-[initialC](Initial Condition.md)
+# Initial Condition
+
+[](InitialCondition.md)
