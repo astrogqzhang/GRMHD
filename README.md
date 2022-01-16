@@ -1,2 +1,2 @@
 # initialCondition
-[initialC](initialCondition.md)
+[initialC](Initial Condition.md)
